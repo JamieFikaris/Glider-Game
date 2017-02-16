@@ -10,10 +10,9 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Glider_Game
+namespace Glider_Game.Main_Window.View
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
