@@ -1,15 +1,2 @@
 c:\users\jamie pc\documents\visual studio 2015\Projects\Glider Game\Glider Game\bin\Debug\Glider Game.exe.config
 C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\bin\Debug\Glider Game.exe.config
-C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\bin\Debug\Glider Game.exe
-C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\bin\Debug\Glider Game.pdb
-C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\obj\Debug\Glider Game.csprojResolveAssemblyReference.cache
-C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\obj\Debug\App.g.cs
-C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\obj\Debug\Glider Game_MarkupCompile.cache
-C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\obj\Debug\Glider Game_MarkupCompile.lref
-C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\obj\Debug\Glider Game.g.resources
-C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\obj\Debug\Glider_Game.Properties.Resources.resources
-C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\obj\Debug\Glider Game.csproj.GenerateResource.Cache
-C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\obj\Debug\Glider Game.exe
-C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\obj\Debug\Glider Game.pdb
-C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\obj\Debug\Main Window\View\MainWindow.g.cs
-C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\obj\Debug\Main Window\View\MainWindow.baml
