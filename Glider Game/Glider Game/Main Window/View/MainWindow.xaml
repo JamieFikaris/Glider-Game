@@ -5,22 +5,36 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Glider_Game.Main_Window.View"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="1000">
+        Title="MainWindow" Height="430" Width="900">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*" />
-            <ColumnDefinition Width="50" />
+            <ColumnDefinition Width="370" />
+            <ColumnDefinition Width="30" />
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="50" /> 
-            <RowDefinition Height="5*" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="3*" />
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
 
         <TabControl Name="GliderTab" Grid.Row="1" Margin="10" Background="MintCream">
             <TabItem Header="Glider 1"  Margin="-2,0" FontSize="15">
-                
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="130" />
+                        <ColumnDefinition Width="63*" />
+                        <ColumnDefinition Width="44*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <Label Height="30" VerticalAlignment="Bottom" FontSize="15">Altitude Reached</Label>
+                    <TextBox Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="125" Height="30"></TextBox>
+
+                </Grid>
             </TabItem>
             <TabItem Header="Glider 2"  Margin="-2,0" FontSize="15">
 
