@@ -1,0 +1,2 @@
+c:\users\jamie pc\documents\visual studio 2015\Projects\Glider Game\Glider Game\bin\Debug\Glider Game.exe.config
+C:\Users\Jamie PC\Documents\GitHub\Glider-Game\Glider Game\Glider Game\bin\Debug\Glider Game.exe.config
