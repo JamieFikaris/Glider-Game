@@ -64,6 +64,7 @@
     <Compile Include="Main Window\View\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Models\Glider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -92,7 +93,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Main Window\View Model\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Page Include="Main Window\View\MainWindow.xaml">
